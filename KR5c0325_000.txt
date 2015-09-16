@@ -1,7 +1,0 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2015-08-29 00:56:07.967879
-#+TITLE: 丹方鑑源
-#+PROPERTY: DZID  DZ0925
-#+PROPERTY: SOURCE  正統道藏，三家本，1988，19—298 一卷 洞神部眾術類
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS HFL
